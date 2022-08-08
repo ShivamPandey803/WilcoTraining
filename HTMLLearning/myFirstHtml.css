@@ -1,0 +1,32 @@
+    table 
+    {
+      font-family: arial, sans-serif;
+      border-collapse: separate;
+      border-width: 5cm;
+    }
+    
+    td, th 
+    {
+      border: 1px solid #161616;
+      text-align: left;
+      padding: 20px;
+    }
+    tr:nth-child(even) 
+    {
+      background-color: #0a127c;
+    }
+    .header 
+    {
+  overflow: hidden;
+  background-color: #ddd;
+  padding: 20px 10px;
+  text-align: left;
+    }
+    footer 
+    {
+  overflow: hidden;
+  background-color: #ddd;
+  text-align: center;
+  min-height: fit-content;
+
+    }
