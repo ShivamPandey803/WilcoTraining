@@ -74,10 +74,9 @@ ul li.checked::before {
   background-color: #f44336;
   color: white;
 }
-
 /* Style the header */
 .header {
-  background-color: #f44336;
+  background-color: #fa800e;
   padding: 30px 40px;
   color: white;
   text-align: center;
